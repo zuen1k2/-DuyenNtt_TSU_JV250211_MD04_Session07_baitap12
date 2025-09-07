@@ -8,6 +8,8 @@
 <button>
     <a href="/categories">Quản lý Danh Mục </a>
 </button>
-
+<button>
+    <a href="/products"> Quản lý sản phẩm</a>
+</button>
 </body>
 </html>
